@@ -1,0 +1,145 @@
+
+
+/* head style */
+header{
+    max-width: 1440px;
+    height: 698px;
+background-image: url("../Assets/Hero-bg.png");
+margin: 0 auto;
+
+
+
+
+/* nav style */
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1280px;
+    height: 100px;
+
+}
+.logo{
+    font-size: 34px;
+    color: #4E47FF;
+    width: 100px;
+    height: 50px;
+}
+nav li a{
+    text-decoration: none;
+}
+.primary-btn{
+    width: 132px;
+    font-weight: bold;
+    height: 48px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 12px 36px;
+    background-color: #4E47FF;
+}
+/* banner section */
+.banner{
+    text-align: center;
+    margin: 310px 265px 160px;
+}
+.banner-section{
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+    width: 905px;
+    height: 152px;
+}
+.banner-btn{
+    width: 144px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+
+}
+/* main section */
+.Action{
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    height: 328px;
+    align-items: center;
+    gap: 203px;
+    margin: auto;
+    margin-top: 152px;
+}
+.title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    
+}
+.sub-title{
+    font-size: 24px;
+    color: #252432;
+
+    
+}
+.Preview-btn{
+    border-radius: 10px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    width: 230px;
+    height: 48px;
+    margin-bottom: 62px;
+
+}
+.Action-image{
+    width: 400px;
+    height: 325px;
+    border-radius: 48px;
+    
+}
+.Users-Section{
+    margin: 0 auto;
+    width: 1140px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgba(78, 71, 255, 0.1);
+    padding: 50px 80px;
+    margin-top: 105px;
+    border-radius: 24px;
+
+    
+    
+}
+.Centered-title{
+    font-weight: bold;
+    font-size: 38px;
+    color: #252432;
+   
+    
+}
+.productive-section{
+    font-weight: bold;
+    font-size: 70px;
+}
+.data-subtitle{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-around;
+    margin: 50px 142px;
+    gap: 10px;
+}
+.line{
+    font-size: 20px;
+    width: 140px;
+    height: 24px;
+    color: #00000080;
+
+}
