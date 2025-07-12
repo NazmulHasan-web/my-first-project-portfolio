@@ -105,7 +105,7 @@ nav li a{
 .Users-Section{
     margin: 0 auto;
     width: 1140px;
-    height: 300px;
+    height: 310px;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -127,6 +127,7 @@ nav li a{
 .productive-section{
     font-weight: bold;
     font-size: 70px;
+    color: #4E47FF;
 }
 .data-subtitle{
     display: flex;
@@ -143,3 +144,75 @@ nav li a{
     color: #00000080;
 
 }
+.sub-touch-section{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Touch-Section{
+    /* border: 1px solid red; */
+    text-align: center;
+    justify-content: center;
+    justify-content: space-around;
+    width: 1260px;
+    height: 310px;
+    margin: 0 auto;
+    margin-top: 140px;
+    
+}
+.our-users{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    width: 1140px;
+}
+.asset-review{
+    display: flex;
+    justify-content: space-around;
+}
+.design-section{
+    color: #1E1E1E;
+    font-weight: bold;
+    font-size: 24px;
+}
+.p-section{
+    font-size: 20px;
+    color:#1E1E1E ;
+}
+.star-section{
+    padding-left: 24px;
+}
+.avater-section{
+    height: 40px;
+    width: 40px;
+}
+.focus-better{
+    /* border: 1px solid red; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 690px;
+    width: 1140px;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+.better{
+    font-weight: bold;
+    font-size: 50px;
+    color: #000000;
+    padding-top: 80px;
+}
+.started-btn{
+     width: 170px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.wc-big{
+    border-radius: 48px;
+    margin-top: 20px;
+}        
