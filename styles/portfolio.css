@@ -275,31 +275,42 @@ main{
     background-color:#4E47FF ;
     font-weight: bold;
 }
-
-    
-
-    
-
-
-
-
-
-footer{
+.footer-section{
     width: 530px;
     height: 220px;
-    text-align: center;
     margin: 0 auto;
-    gap: 10px;
-    margin-top: 50px;
+    margin-top: 104px;
 }
-.logo{
+.footer-title{
+    width: 291px;
+    height: 121px;
     font-weight: 900;
-    font-size: 120px;
+    font-size: 100px;
+    margin: 0 auto;
+    color: #4E47FF;
+
+}
+.footer-subtitle{
+    width: 530px;
+    height: 48px;
     text-align: center;
 }
-.paragraph{
-    margin-top: 100px;
+.footer-link-nav{
+    width: 401px;
+    height: 24px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 5px;
 }
-.log-section{
-    text-decoration: none;
+button:hover{
+    color: red;
+    text-decoration: underline;
 }
+nav li a:hover{
+    background-color: aqua;
+}
+
+
+      
